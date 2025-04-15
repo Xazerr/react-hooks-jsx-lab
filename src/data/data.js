@@ -1,7 +1,6 @@
-// use these variables in your JSX (update them with your own name and city!)
-const name = "Liza";
-const city = "New York";
-
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const name = "Your Name";
+const city = "Your City";
+const image = "https://via.placeholder.com/150"; // or your actual image URL
 
 export { name, city, image };
+
